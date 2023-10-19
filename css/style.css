@@ -1,0 +1,42 @@
+
+  .title
+   {
+    font-size: 40px;
+    color: #f03333;
+    line-height: 1.2;
+    text-transform: uppercase;
+  }
+  
+  .subtitle {
+    font-size: 30px;
+    color: #12ac11;
+    line-height: 1.2;
+    text-decoration: underline;
+  }
+  
+  .list {
+    font-size: 20px;
+    color: #444;
+    font-style: italic;
+    list-style-type: square;
+  }
+  .table {
+    width: 500px;
+    border-collapse: collapse;
+  }
+  
+  .table td,
+  .table th {
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+  }
+  
+  .table thead {
+    background-color: #f0f1f4;
+  }
+  
+  .table tfoot {
+    background-color: #121212;
+    color: #fff;
+    text-align: right;
+  }
